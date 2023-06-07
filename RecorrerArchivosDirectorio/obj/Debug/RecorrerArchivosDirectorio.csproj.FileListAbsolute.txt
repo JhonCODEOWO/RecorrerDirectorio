@@ -1,0 +1,10 @@
+C:\Users\eljho\source\repos\RecorrerArchivosDirectorio\RecorrerArchivosDirectorio\bin\Debug\RecorrerArchivosDirectorio.exe.config
+C:\Users\eljho\source\repos\RecorrerArchivosDirectorio\RecorrerArchivosDirectorio\bin\Debug\RecorrerArchivosDirectorio.exe
+C:\Users\eljho\source\repos\RecorrerArchivosDirectorio\RecorrerArchivosDirectorio\bin\Debug\RecorrerArchivosDirectorio.pdb
+C:\Users\eljho\source\repos\RecorrerArchivosDirectorio\RecorrerArchivosDirectorio\obj\Debug\RecorrerArchivosDirectorio.csproj.AssemblyReference.cache
+C:\Users\eljho\source\repos\RecorrerArchivosDirectorio\RecorrerArchivosDirectorio\obj\Debug\RecorrerArchivosDirectorio.Form1.resources
+C:\Users\eljho\source\repos\RecorrerArchivosDirectorio\RecorrerArchivosDirectorio\obj\Debug\RecorrerArchivosDirectorio.Properties.Resources.resources
+C:\Users\eljho\source\repos\RecorrerArchivosDirectorio\RecorrerArchivosDirectorio\obj\Debug\RecorrerArchivosDirectorio.csproj.GenerateResource.cache
+C:\Users\eljho\source\repos\RecorrerArchivosDirectorio\RecorrerArchivosDirectorio\obj\Debug\RecorrerArchivosDirectorio.csproj.CoreCompileInputs.cache
+C:\Users\eljho\source\repos\RecorrerArchivosDirectorio\RecorrerArchivosDirectorio\obj\Debug\RecorrerArchivosDirectorio.exe
+C:\Users\eljho\source\repos\RecorrerArchivosDirectorio\RecorrerArchivosDirectorio\obj\Debug\RecorrerArchivosDirectorio.pdb
